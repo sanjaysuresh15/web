@@ -1,1 +1,13 @@
-class="main"
+.main {
+    position: relative;
+    height: 400px;
+    background: darkgray;
+  }
+  
+  .side {
+    width: 150px;
+    height: 150px;
+    background: #2db34a;
+    border: 2px solid black;
+  }
+
