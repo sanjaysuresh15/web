@@ -1,10 +1,10 @@
-.nav {
+.nav  {
     position: relative;
     height: 100px;
-    background: blue;
+    background: black;
   }
   
-  .side {
+  .body {
     width: 150px;
     height: 150px;
     background: #2db34a;
