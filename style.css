@@ -1,13 +1,47 @@
-.nav  {
-    position: relative;
-    height: 100px;
-    background: black;
-  }
-  
-  .body {
-    width: 150px;
-    height: 150px;
-    background: #2db34a;
-    border: 2px solid black;
-  }
+.body {
+  background-color: lightgray
+}
+.navbar-nav {
+float: right
 
+}
+  
+.navbar-brand {
+  color: white !important;;
+  background-color: gray;
+  font-weight: bold;
+  font-size: 40px;
+  float: inline-end;
+}
+
+ .container-fluid { 
+   padding: 10px;
+  height: auto;
+  widows: auto;
+
+  
+
+}
+.card-body {
+
+object-fit: cover
+}
+
+.image {
+  float: left;
+  /* object-fit: cover; */
+  width: 250px;
+  height: 150px;
+  margin-right: 20px
+}
+
+.firsttitle {
+color: gray
+
+}
+
+
+
+
+
+  
